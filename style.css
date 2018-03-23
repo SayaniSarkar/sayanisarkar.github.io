@@ -2,5 +2,14 @@ body{
 
 background-color: skyblue;
 color: red;
+  text-align: center;
+}
+h1:hover{
+
+font-size: 400%;
+color: white ;
+
+
+}
 
 }
