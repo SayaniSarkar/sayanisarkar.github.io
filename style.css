@@ -1,15 +1,40 @@
 body{
 
-background-color: skyblue;
-color: red;
-  text-align: center;
-}
-h1:hover{
-
-font-size: 400%;
-color: white ;
-
+margin: 0 ;
+padding: 30px;
+text-align:center;
+background-color: #fffff2
 
 }
+
+.block1{
+
+padding: 20px;
+margin:auto;
+color:#222222;
+background-color: blue;
+color:white;
+border: 2px solid black;
+border-top-right-radius: 5vw;
+border-bottom-left-radius: 5vw;
+
+
+}
+
+.block1:hover{
+
+background-color: red;
+border-top-left-radius: 5vw;
+border-bottom-right-radius: 5vw;
+
+}
+
+
+.block2{
+
+margin:auto;
+padding: 10px;
+margin-top: 30px;
+color: #000003;
 
 }
